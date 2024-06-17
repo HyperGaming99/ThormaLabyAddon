@@ -1,0 +1,10 @@
+{
+  "example": {
+    "settings": {
+      "name": "ThormaNetzwerkAddon",
+      "enabled": {
+        "name": "Enabled"
+      }
+    }
+  }
+}
